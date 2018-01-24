@@ -29,15 +29,19 @@
       },
       "additionalSetColors": []
     },
+    "favicon": "@PROJECT_PATH@/assets/images/logo-wspolnyskipass-1-128x94.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "4.5.4"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Szczyrk Kamery TV",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
