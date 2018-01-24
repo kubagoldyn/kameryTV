@@ -1363,15 +1363,3 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qHDptW3XG2 {
-  background: #ffffff;
-}
-.cid-qHDptW3XG2 .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-qHDptW3XG2 .video-block {
-    width: 100% !important;
-  }
-}
