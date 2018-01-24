@@ -41,7 +41,7 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "addEventListener(\"click\", function() {\n    var\n          el = document.documentElement\n        , rfs =\n               el.requestFullScreen\n            || el.webkitRequestFullScreen\n            || el.mozRequestFullScreen\n    ;\n    rfs.call(el);\n});"
       },
       "components": [
         {
@@ -73,7 +73,9 @@
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "video3-1"
+          "_anchor": "video3-1",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }

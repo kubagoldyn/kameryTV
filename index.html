@@ -1,4 +1,13 @@
-<!DOCTYPE html>
+addEventListener("click", function() {
+    var
+          el = document.documentElement
+        , rfs =
+               el.requestFullScreen
+            || el.webkitRequestFullScreen
+            || el.mozRequestFullScreen
+    ;
+    rfs.call(el);
+});<!DOCTYPE html>
 <html >
 <head>
   <!-- Site made with Mobirise Website Builder v4.5.4, https://mobirise.com -->
