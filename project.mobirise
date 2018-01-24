@@ -41,7 +41,7 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "addEventListener(\"click\", function() {\n    var\n          el = document.documentElement\n        , rfs =\n               el.requestFullScreen\n            || el.webkitRequestFullScreen\n            || el.mozRequestFullScreen\n    ;\n    rfs.call(el);\n});"
+        "html_before": ""
       },
       "components": [
         {
